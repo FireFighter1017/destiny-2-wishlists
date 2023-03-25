@@ -1,2 +1,20 @@
-title:ultimate-blundre-maker-wishlist
+title:BougePasJteTue-Beginners-wishlist
 https://destinytracker.com/destiny-2/db/items/372697604-cantata-57?perks=1294026524,1482024992,3142289711,247725512,47981717,4248210736,2323986101,150943607,0,2285418970,0,0,1961918267
+// Dark Decider - Dark Decider 1 (mnk,pve)
+//notes: tags:mnk,pve
+dimwishlist:item=540880995&perks=202670084,3230963543,1359896290,2173046394,3988215619
+// The Hero's Burden - Burden maker
+//notes: tags:mnk,pve,pvp
+dimwishlist:item=2488587246&perks=1482024992,1885400500,2779035018,1015611457,4008116374
+// Ikelos_smg_v1.0.3 - DPS'n'Reload
+//notes: tags:mnk,pve,pvp
+dimwishlist:item=2149683300&perks=3661387068,3230963543,1171147302,1720528630
+// Syncopation - To Shape
+//notes: tags:mnk,pve
+dimwishlist:item=2856514843&perks=3661387068,1885400500,1347741687,3007133316
+// Palmyra-B - Final Shape
+//notes: Ammo frenzy
+dimwishlist:item=3489657138&perks=3809316345,2822142346,3797647183,3007133316
+// Adaptive Frame - Damage
+//notes: Circular Logic
+dimwishlist:item=2187717691&perks=1392496348,1968497646,972757866,2610012052
