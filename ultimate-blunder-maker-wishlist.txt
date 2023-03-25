@@ -18,3 +18,6 @@ dimwishlist:item=3489657138&perks=3809316345,2822142346,3797647183,3007133316
 // Adaptive Frame - Damage
 //notes: Circular Logic
 dimwishlist:item=2187717691&perks=1392496348,1968497646,972757866,2610012052
+// Auto Rifle Strand
+//notes: final shape
+dimwishlist:item=392008588&perks=1482024992,3230963543,2387244414,365154968
