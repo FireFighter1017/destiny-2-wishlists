@@ -34,3 +34,6 @@ dimwishlist:item=3166250992&perks=1482024992,1885400500,591790007
 //notes: Iron Reach with ricochet rounds can hurt a lot
 dimwishlist:item=62937067&perks=1885400500,591790007
 dimwishlist:item=62937067&perks=1885400500,1015611457
+// Borrowed Time
+//notes: tags:pvp
+dimwishlist:item=875848769&perks=4090651448,1885400500,2846385770,2848615171,515704826
