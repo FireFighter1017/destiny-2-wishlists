@@ -1,40 +1,40 @@
 title:BougePasJteTue-Beginners-wishlist
 // ============================================================================
 // Cantata-57
-// notes: tags:
+// notes: BougePas tags:
 dimwishlist:item=372697604&perks=1294026524,1482024992,3142289711,247725512,47981717,4248210736,2323986101,150943607,0,2285418970,0,0,1961918267
 // ============================================================================
 // Dark Decider - Dark Decider 1 (mnk,pve)
-//notes: tags:pve
+//notes: BougePas tags:pve
 dimwishlist:item=540880995&perks=202670084,3230963543,1359896290,2173046394,3988215619
 // ============================================================================
 // The Hero's Burden - Burden maker
-//notes: tags:mnk,pve,pvp
+//notes: BougePas tags:mnk,pve,pvp
 dimwishlist:item=2488587246&perks=1482024992,1885400500,2779035018,1015611457,4008116374
 // ============================================================================
 // Ikelos_smg_v1.0.3 - DPS'n'Reload
-//notes: tags:mnk,pve,pvp
+//notes: BougePas tags:mnk,pve,pvp
 dimwishlist:item=2149683300&perks=3661387068,3230963543,1171147302,1720528630
 // ============================================================================
 // Syncopation - To Shape
-//notes: tags:mnk,pve
+//notes: BougePas tags:mnk,pve
 dimwishlist:item=2856514843&perks=3661387068,1885400500,1347741687,3007133316
 // ============================================================================
 // Palmyra-B - Final Shape
-//notes: Ammo frenzy
+//notes: BougePas Ammo frenzy
 dimwishlist:item=3489657138&perks=3809316345,2822142346,3797647183,3007133316
 dimwishlist:item=3489657138&perks=3525010810,2822142346,855168139,3007133316
 // ============================================================================
-// Adaptive Frame - Damage
-//notes: Circular Logic
+// Circular Logic
+//notes: BougePsa Adaptive Frame - Damage
 dimwishlist:item=2187717691&perks=1392496348,1968497646,972757866,2610012052
 // ============================================================================
 // Auto Rifle Strand
-//notes: final shape
+//notes: BougePas final shape
 dimwishlist:item=392008588&perks=1482024992,3230963543,2387244414,365154968
 // ============================================================================
 // Allied Demand
-//notes: tags:pvp
+//notes: BougePas tags:pvp
 dimwishlist:item=3166250992&perks=4090651448,1885400500,2846385770,1870851715,3989629871
 dimwishlist:item=3166250992&perks=3661387068,1885400500,2846385770,591790007,3989629871
 dimwishlist:item=3166250992&perks=4090651448,1885400500,1870851715
@@ -44,14 +44,14 @@ dimwishlist:item=3166250992&perks=1392496348,1885400500,591790007
 dimwishlist:item=3166250992&perks=1482024992,1885400500,591790007
 // ============================================================================
 // Jorum's claw
-//notes: Iron Reach with ricochet rounds can hurt a lot
+//notes: BougePas Iron Reach with ricochet rounds can hurt a lot
 dimwishlist:item=62937067&perks=1885400500,591790007
 dimwishlist:item=62937067&perks=1885400500,1015611457
 // ============================================================================
 // Borrowed Time
-//notes: tags:pvp
+//notes: BougePas tags:pvp
 dimwishlist:item=875848769&perks=4090651448,1885400500,2846385770,2848615171,515704826
 // ============================================================================
 // Bump in the night
-//notes: BougePas' next roll to test (???) tags:pve-boss
+//notes: BougePas next roll to test (???) tags:pve-boss
 dimwishlist:item=1959650777&perks=3798852852,3796465595,3528046508,3418165135
